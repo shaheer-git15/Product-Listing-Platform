@@ -1,0 +1,3 @@
+g++ -o main main.cpp Admin.cpp Bank.cpp Cart.cpp FileHandler.cpp Globals.cpp Product.cpp User.cpp
+
+.\main.exe

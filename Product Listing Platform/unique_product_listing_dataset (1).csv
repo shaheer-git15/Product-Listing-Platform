@@ -1,0 +1,36 @@
+ProductID,Category,ProductName,Price,Rating,Reviews,Description,InStock,ListedBy
+1,Electronics,Samsung Galaxy S21,55.5,3.8,[Value for money  satisfied.*Will purchase again!*Met all my expectations.*Met all my expectations.*Excellent quality and features.],128GB storage  5G  Phantom Gray.|,10,Christopher Acosta
+2,Electronics,Apple MacBook Pro 13,61,4.1,[Value for money  satisfied.*Excellent quality and features.*Value for money  satisfied.*Great product  highly recommend!],M2 chip  16GB RAM  512GB SSD.|,10,Ralph Elliott
+3,Electronics,Sony WH-1000XM4,66.5,4.4,[Will purchase again!*Excellent quality and features.],Noise-canceling headphones  black.|,10,Joanna Adams
+4,Electronics,Dell XPS 15,72,3.5,[Will purchase again!*Value for money  satisfied.*Value for money  satisfied.*Met all my expectations.],Intel Core i7  16GB RAM  1TB SSD.|,10,Aaron Martinez
+5,Electronics,GoPro HERO10,77.5,3.8,[Will purchase again!*Excellent quality and features.*Excellent quality and features.*Excellent quality and features.],Waterproof action camera  5.3K60 video.|,10,Ralph Elliott
+6,Electronics,Apple iPhone 13,83,4.1,[Excellent quality and features.*Excellent quality and features.*Met all my expectations.],128GB storage  6.1-inch display  Midnight.|,10,Joanna Adams
+7,Electronics,Bose QuietComfort 35 II,88.5,4.4,[Excellent quality and features.*Met all my expectations.*Value for money  satisfied.],Wireless headphones  noise-canceling.|,10,Wendy Porter
+8,Fashion,Nike Air Max 270,94,3.5,[Great product  highly recommend!*Great product  highly recommend!*Great product  highly recommend!],Lightweight running shoes  white/blue.|,10,Christopher Acosta
+9,Fashion,Ray-Ban Wayfarer,99.5,3.8,[Met all my expectations.],Classic polarized sunglasses  black.|,10,Christopher Acosta
+10,Fashion,Rolex Submariner,105,4.1,[Great product  highly recommend!*Excellent quality and features.],Luxury dive watch  stainless steel.|,10,Wendy Porter
+11,Fashion,Gucci GG Marmont Bag,110.5,4.4,[Value for money  satisfied.*Will purchase again!*Great product  highly recommend!],Matelassé leather  small size.|,10,Joanna Adams
+12,Fashion,Adidas Ultraboost 21,116,3.5,[Value for money  satisfied.*Will purchase again!],Performance running shoes  grey.|,10,Lindsay Lawrence
+13,Fashion,Puma RS-X Toys,121.5,3.8,[Will purchase again!*Excellent quality and features.*Value for money  satisfied.],Fashion sneakers  multicolor.|,10,Ralph Elliott
+14,Fashion,Levi's 501 Original Fit Jeans,127,4.1,[Will purchase again!*Excellent quality and features.*Met all my expectations.*Value for money  satisfied.*Value for money  satisfied.],Classic denim jeans  blue.|,10,Lindsay Lawrence
+15,Home Appliances,Dyson V15 Detect,132.5,4.4,[Value for money  satisfied.],Cordless vacuum cleaner  laser technology.|,10,Joanna Adams
+16,Home Appliances,Philips Hue Starter Kit,138,3.5,[Met all my expectations.*Excellent quality and features.*Will purchase again!*Excellent quality and features.*Will purchase again!],Smart LED bulbs with bridge.|,10,Joanna Adams
+17,Home Appliances,Instant Pot Duo 7-in-1,143.5,3.8,[Met all my expectations.*Met all my expectations.*Value for money  satisfied.*Excellent quality and features.],Pressure cooker  6-quart capacity.|,10,Aaron Martinez
+18,Home Appliances,iRobot Roomba i7+,149,4.1,[Great product  highly recommend!*Excellent quality and features.*Will purchase again!*Met all my expectations.],Self-emptying robot vacuum.|,10,Robert Harrison
+19,Home Appliances,LG OLED C1 Series,154.5,4.4,[Met all my expectations.],65-inch 4K Smart TV  AI ThinQ.|,10,Lindsay Lawrence
+20,Home Appliances,Ninja Foodi 9-in-1,160,3.5,[Value for money  satisfied.*Met all my expectations.*Excellent quality and features.*Met all my expectations.],Pressure cooker  air fryer  6.5-quart.|,10,Lindsay Lawrence
+21,Home Appliances,KitchenAid Artisan Stand Mixer,165.5,3.8,[Met all my expectations.],5-quart tilt-head  red.|,10,Lindsay Lawrence
+22,Books,Educated by Tara Westover,171,4.1,[Value for money  satisfied.*Will purchase again!*Met all my expectations.*Great product  highly recommend!],A memoir of resilience and self-discovery.|,10,Lindsay Lawrence
+23,Books,Becoming by Michelle Obama,176.5,4.4,[Met all my expectations.*Met all my expectations.*Value for money  satisfied.*Will purchase again!*Excellent quality and features.],Memoir of the former First Lady.|,10,Aaron Martinez
+24,Books,The Alchemist,182,3.5,[Excellent quality and features.*Met all my expectations.*Great product  highly recommend!],A fable about following your dreams.|,10,Aaron Martinez
+25,Books,Sapiens: A Brief History of Humankind,187.5,3.8,[Will purchase again!*Will purchase again!],Exploration of human history by Yuval Noah Harari.|,10,Robert Harrison
+26,Books,Where the Crawdads Sing,193,4.1,[Great product  highly recommend!*Great product  highly recommend!*Excellent quality and features.*Great product  highly recommend!],A coming-of-age murder mystery by Delia Owens.|,10,Ralph Elliott
+27,Books,Atomic Habits by James Clear,198.5,4.4,[Will purchase again!*Value for money  satisfied.*Will purchase again!],Guide to building good habits.|,10,Robert Harrison
+28,Books,Educated by Tara Westover,204,3.5,[Value for money  satisfied.],Memoir of growing up in a survivalist family.|,10,Lindsay Lawrence
+29,Sports & Outdoors,Wilson Evolution Basketball,209.5,3.8,[Great product  highly recommend!],High-performance indoor basketball.|,10,Joanna Adams
+30,Sports & Outdoors,Callaway Golf Supersoft Balls,215,4.1,[Met all my expectations.*Value for money  satisfied.*Will purchase again!],Pack of 12 soft golf balls.|,10,Christopher Acosta
+31,Sports & Outdoors,Yeti Tundra 45 Cooler,220.5,4.4,[Value for money  satisfied.],Premium insulated cooler  white.|,10,Aaron Martinez
+32,Sports & Outdoors,CamelBak Eddy+ Water Bottle,226,3.85,[Met all my expectations.*Value for money  satisfied.*Value for money  satisfied.],32oz  leak-proof  BPA-free.|,10,Ralph Elliott
+33,Sports & Outdoors,Columbia Bugaboo II Pants,231.5,3.8,[Will purchase again!*Met all my expectations.*Will purchase again!*Will purchase again!],Waterproof ski pants  black.|,10,Christopher Acosta
+34,Sports & Outdoors,Fitbit Charge 5,237,4.1,[Value for money  satisfied.*Will purchase again!*Great product  highly recommend!],Fitness and health tracker  black.|,10,Christopher Acosta
+35,Sports & Outdoors,Garmin Forerunner 245 Music,242.5,4.4,[Great product  highly recommend!*Value for money  satisfied.*Great product  highly recommend!*Great product  highly recommend!*Will purchase again!],GPS running watch with music.|,10,Lindsay Lawrence
